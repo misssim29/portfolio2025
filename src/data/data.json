@@ -40,7 +40,7 @@
         "workInfo": "프론트부분 리뉴얼, 기능추가, 유지보수",
         "date": "2022년 6월 ~ 2024년 8월",
         "site": "https://daedamo.com/new/",
-        "thumb": "daedamo_thumb.png",
+        "thumb": "daedamo_thumb.PNG",
         "videoPc": "daedamo_pc.mov",
         "videoMobile": "daedamo_mobile.mov"
     },
@@ -115,7 +115,7 @@
         "workInfo": "프론트부분 처음부터 개발 및 배포, 유지보수",
         "date": "2023년 11월 ~ 2024년 8월",
         "site": "https://www.ddmdandy.com/",
-        "thumb": "dandy_thumb.png",
+        "thumb": "dandy_thumb.PNG",
         "videoPc": "dandy_pc.mov",
         "videoMobile": "dandy_mobile.mov"
     },
@@ -247,7 +247,7 @@
         "workInfo": "기존 웹사이트 유지보수 및 기능수정",
         "date": "2024년 2월 ~ 2024년 8월",
         "site": "https://www.socdoc.co.kr/",
-        "thumb": "socdoc_web_thumb.png"
+        "thumb": "socdoc_web_thumb.PNG"
     },
     {
         "id": 5,
@@ -291,7 +291,7 @@
         "workInfo": "원본 애플리케이션의 바이럴용 웹페이지 제작 및 유지보수",
         "date": "2023년 2월 ~ 2024년 2월",
         "site": "https://www.chooldo.com/gpt-form",
-        "thumb": "chooldo_thumb.png",
+        "thumb": "chooldo_thumb.PNG",
         "videoPc": "chooldo_pc.mov"
     },
     {
@@ -328,7 +328,7 @@
         "workInfo": "MBTI 기반의 타로 바이럴용 웹페이지 제작",
         "date": "2023년 6월 ~ 2023년 7월",
         "site": "https://www.chooldo.com/love_taro/index.html",
-        "thumb": "taro_thumb.png",
+        "thumb": "taro_thumb.PNG",
         "videoPc": "taro_pc.mov"
     },
     {
@@ -375,7 +375,7 @@
         "workInfo": "AI API 연결해 인공지능 타로페이지 제작",
         "date": "2023년 12월 ~ 2024년 2월",
         "site": "https://www.chooldo.com/tarogpt-intro",
-        "thumb": "tarogpt_thumb.png",
+        "thumb": "tarogpt_thumb.PNG",
         "videoPc": "tarogpt_pc.mov"
     },
     {
@@ -417,7 +417,7 @@
         "workInfo": "바이럴용 사주보기 웹페이지. 사주 API 데이터 뿌려주고 댓글 달기 기능 제작",
         "date": "2023년 7월 ~ 2023년 8월",
         "site": "http://www.loveagain.co.kr/result",
-        "thumb": "remeet_thumb.png",
+        "thumb": "remeet_thumb.PNG",
         "videoMobile": "remeet_mobile.mov"
     },
     {
@@ -445,7 +445,7 @@
         "workInfo": "의료 애니메이션 페이지 제작",
         "date": "2021년 11월 ~ 2021년 11월",
         "site": "https://misssim29.github.io/portfolio2022/sub/hosigul/index.html",
-        "thumb": "sanofi_thumb.png",
+        "thumb": "sanofi_thumb.PNG",
         "videoPc": "sanofi_pc.mp4"
     },
     {
@@ -474,7 +474,7 @@
         "workInfo": "회사의 CLM 콘텐츠 포트폴리오 페이지 제작",
         "date": "2022년 1월 ~ 2022년 2월",
         "site": "https://misssim29.github.io/portfolio2022/sub/clm/index.html",
-        "thumb": "dwave_thumb.png",
+        "thumb": "dwave_thumb.PNG",
         "videoPc": "dwave_pc.mp4"
     },
     {
@@ -501,7 +501,7 @@
         "workInfo": "한독의 veeva CLM 소개페이지 제작",
         "date": "2020년 2월 ~ 2020년 2월",
         "site": "https://misssim29.github.io/portfolio2022/sub/handok/index.html",
-        "thumb": "handok_thumb.png",
+        "thumb": "handok_thumb.PNG",
         "videoPc": "handok_pc.mp4"
     },
     {
@@ -528,7 +528,7 @@
         "workInfo": "레스토랑 오사카하루의 소개페이지 제작",
         "date": "2019년 10월 ~ 2019년 10월",
         "site": "https://misssim29.github.io/portfolio2022/sub/osakaharu/index.html",
-        "thumb": "osakaharu_thumb.png",
+        "thumb": "osakaharu_thumb.PNG",
         "videoPc": "osakaharu_pc.mp4"
     },
     {
@@ -559,7 +559,7 @@
         "workInfo": "php로 커뮤니티 사이트 개발",
         "date": "2019년 9월 ~ 2019년 11월",
         "site": "http://whatsthecraic.dothome.co.kr/index.php",
-        "thumb": "whatsthecraic_thumb.png",
+        "thumb": "whatsthecraic_thumb.PNG",
         "videoPc": "whatsthecraic_pc.mp4"
     }
 ]
