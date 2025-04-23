@@ -34,7 +34,8 @@
             "웹 접근성",
             "웹접근성",
             "웹표준",
-            "웹 표준"
+            "웹 표준",
+            "CS3"
         ],
         "subject": "의료 탈모 사이트",
         "tag": ["php", "제이쿼리", "ajax"],
@@ -113,7 +114,8 @@
             "웹 접근성",
             "웹접근성",
             "웹표준",
-            "웹 표준"
+            "웹 표준",
+            "CS3"
         ],
         "subject": "남성 패션,성형,스타일 커뮤니티",
         "tag": ["next.js", "scss", "typescript"],
@@ -289,7 +291,8 @@
             "gpt",
             "chatgpt",
             "aiApi",
-            "api"
+            "api",
+            "CS3"
         ],
         "subject": "바이럴용 웹페이지",
         "tag": ["vue.js", "AI", "GPT"],
@@ -326,7 +329,8 @@
             "뷰",
             "카카오",
             "api",
-            "html"
+            "html",
+            "CS3"
         ],
         "subject": "바이럴용 MBTI 타로테스트 웹페이지",
         "tag": ["javascript", "MBTI", "타로테스트"],
@@ -373,7 +377,8 @@
             "ai",
             "gpt-ai",
             "chatgpt",
-            "인공지능"
+            "인공지능",
+            "CS3"
         ],
         "subject": "GPT(AI)로 보는 인공지능 타로테스트",
         "tag": ["javascript", "GPT", "AI"],
@@ -443,7 +448,9 @@
             "퍼블리싱",
             "퍼블리셔",
             "css",
-            "translate"
+            "translate",
+            "CS3",
+            "html"
         ],
         "subject": "jquery 기반의 인터렉티브한 애니메이션 페이지",
         "tag": ["jquery", "javascript", "인터렉티브"],
@@ -472,7 +479,8 @@
             "CLM",
             "포트폴리오",
             "jquery",
-            "제이쿼리"
+            "제이쿼리",
+            "CS3"
         ],
         "subject": "디웨이브 회사 CLM 포트폴리오 페이지",
         "tag": ["veeva", "javascript", "검색"],
@@ -499,7 +507,8 @@
             "비바",
             "CLM",
             "jquery",
-            "제이쿼리"
+            "제이쿼리",
+            "CS3"
         ],
         "subject": "한독 소개 웹페이지",
         "tag": ["veeva", "javascript", "인터렉티브"],
@@ -526,7 +535,8 @@
             "비바",
             "CLM",
             "jquery",
-            "제이쿼리"
+            "제이쿼리",
+            "CS3"
         ],
         "subject": "오사카하루 레스토랑 소개페이지",
         "tag": ["jquery", "javascript", "html"],
