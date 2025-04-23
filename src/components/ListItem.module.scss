@@ -1,0 +1,82 @@
+@import '../App.scss';
+
+.item {
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
+    cursor: pointer;
+    -webkit-tap-highlight-color: transparent;
+    .thumb {
+        width: 130px;
+        height: 130px;
+        border-radius: 20px;
+        background-color: #efefef;
+        overflow: hidden;
+        position: relative;
+        border: 2px solid #efefef;
+        img {
+            width: 140%;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+    }
+    .info {
+        margin-left: 18px;
+        flex: 1;
+        h2 {
+            font-size: 28px;
+            font-weight: bold;
+        }
+        h3 {
+            font-size: 20px;
+            font-weight: normal;
+            margin: 5px 0;
+        }
+        ul {
+            display: flex;
+            flex-wrap: wrap;
+            li {
+                font-size: 14px;
+                color: #fff;
+                background-color: $greenLight;
+                border-radius: 5px;
+                margin-right: 3px;
+                margin-top: 3px;
+                padding: 4px;
+            }
+        }
+        p {
+            font-size: 12px;
+            margin-top: 5px;
+        }
+    }
+}
+
+.item:hover {
+    h2 {
+        color: $green;
+    }
+    h3 {
+        color: $green;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .item {
+        .info {
+            h2 {
+                font-size: 22px;
+            }
+            h3 {
+                font-size: 16px;
+            }
+            ul {
+                li {
+                    font-size: 12px;
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,64 @@
+.wrap {
+    min-height: 100vh;
+    position: relative;
+    overflow-x: hidden;
+    .left {
+        padding: 30px;
+        .top {
+            display: flex;
+            align-items: flex-start;
+            .logo {
+                background: none;
+                border: none;
+                margin-top: 10px;
+                margin-right: 6px;
+                cursor: pointer;
+                img {
+                    width: 28px;
+                }
+            }
+        }
+        .list {
+            margin-top: 50px;
+        }
+    }
+    .right {
+        position: fixed;
+        top: 0;
+        right: -100%;
+        overflow: hidden;
+        width: 60%;
+        z-index: 9999;
+    }
+    .right.on {
+        animation: open 0.5s forwards;
+    }
+    .right.off {
+        animation: close 0.5s forwards;
+    }
+}
+
+@keyframes open {
+    from {
+        right: -100%;
+    }
+    to {
+        right: 0;
+    }
+}
+@keyframes close {
+    from {
+        right: 0;
+    }
+    to {
+        right: -100%;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .wrap {
+        .right {
+            width: 100%;
+        }
+    }
+}
